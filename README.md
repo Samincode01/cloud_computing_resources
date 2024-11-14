@@ -7,10 +7,10 @@
 
 **Paste in the terminal:**
   1.  ```bash
-      git clone https://github.com/Monjurul-Hasan-Sohan/GCP_For_Free.git
+      git clone https://github.com/Samincode01/cloud_computing_resources.git
       ```
   2. ```bash
-     cd GCP_For_Free
+     cd cloud_computing_resources
      ```
 
 <br>
@@ -50,10 +50,10 @@
 
 **Paste in the terminal:**
   1. ```bash
-     git clone https://github.com/Monjurul-Hasan-Sohan/GCP_For_Free.git
+     git clone https://github.com/Samincode01/cloud_computing_resources.git
      ```
   2. ```bash
-     cd GCP_For_Free
+     cd cloud_computing_resources
      ```
      
 <br>   
